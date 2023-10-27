@@ -18,10 +18,8 @@ Say goodbye to the time-consuming and labor-intensive task of building admin int
 
 ## Getting Started
 
-To get started with **NodePanel Generator**, follow the installation and usage instructions in our [documentation](link-to-documentation).
+This is just starting so no code has been written. I have started working on it and will be available for you to use it asap.
 
-## License
 
-This project is licensed under the [MIT License](link-to-license).
 
 With **NodePanel Generator**, you can enhance your Node.js application's functionality and provide a smooth user experience without the hassle of manual admin panel development. Experience a new level of efficiency and flexibility in web application development, making it easier than ever to bring your projects to life. Say hello to automation and let **NodePanel Generator** handle the heavy lifting for you.
